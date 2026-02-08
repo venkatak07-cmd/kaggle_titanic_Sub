@@ -289,10 +289,4 @@ Pandas 3.0.0
 
 ---
 
-**How to Use**:
-1. Fork this notebook on Kaggle
-2. Add Titanic Extended dataset
-3. Run all cells
-4. Submit `submission.csv`
-
 **Questions?** Open an issue or discuss on Kaggle!
