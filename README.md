@@ -2,7 +2,6 @@
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-Competition-blue?logo=kaggle)](https://www.kaggle.com/competitions/titanic)
 [![Python 3.12](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
-[![Score](https://img.shields.io/badge/Score-0.XXXXX-brightgreen)](https://www.kaggle.com/competitions/titanic/leaderboard)
 
 > **Kaggle Competition Solution**: Predicting survival on the Titanic using ensemble machine learning with custom feature engineering.
 
